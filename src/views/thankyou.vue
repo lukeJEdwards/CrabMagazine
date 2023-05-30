@@ -6,6 +6,8 @@
 
 <style scoped>
 h1 {
-  font-family: "AltaCaliforniaW00";
+  font-family: "alta-california", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 </style>
