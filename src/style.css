@@ -1,3 +1,22 @@
+@font-face {
+  font-family: "Alta California W00";
+  src: url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.eot"); /* IE9*/
+  src: url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.woff2")
+      format("woff2"),
+    /* chrome、firefox */
+      url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.woff")
+      format("woff"),
+    /* chrome、firefox */
+      url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.ttf")
+      format("truetype"),
+    /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("/fonts/Alta_California_W00/c104cc4d10d99dcb312a3b4e19059e33.svg#Alta California W00")
+      format("svg"); /* iOS 4.1- */
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
